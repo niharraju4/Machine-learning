@@ -55,4 +55,4 @@ The analysis highlights the volatile nature of Bitcoin and suggests potential st
 
 ## Contact Information
 
-For any questions or feedback, feel free to contact me at [your.email@example.com](mailto:your.email@example.com).
+For any questions or feedback, feel free to contact me at [niharraju4@gmail.com).
